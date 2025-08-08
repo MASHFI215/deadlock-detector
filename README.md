@@ -2,4 +2,4 @@
 
 ## Live Server
 
-https://github.com/MASHFI215/deadlock-detector
+https://deadlock-os.netlify.app
